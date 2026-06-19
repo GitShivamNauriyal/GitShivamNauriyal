@@ -2,7 +2,7 @@
 
 Hi there, I'm SHIVAM NAURIYAL! 👋
 
-## koko GitHub Analytics
+## GitHub Analytics
 
 <table>
   <tr>
@@ -17,5 +17,5 @@ Hi there, I'm SHIVAM NAURIYAL! 👋
 
 <br/>
 
-[![Profile views](https://komarev.com)](https://github.com)
+[![Profile views](https://komarev.com)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Followers](https://shields.io)](https://github.com)
