@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GitShivamNauriyal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=GitShivamNauriyal&icon=0&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=GitShivamNauriyal&icon=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
