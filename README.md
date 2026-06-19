@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to my github
 
-<!--
-**GitShivamNauriyal/GitShivamNauriyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm SHIVAM NAURIYAL! 👋
 
-Here are some ideas to get you started:
+## koko GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://vercel.app" height="195" alt="My GitHub Statistics" />
+    </td>
+    <td align="center">
+      <img src="https://vercel.app" height="195" alt="My Programming Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+[![Profile views](https://komarev.com)](https://github.com)
+[![GitHub Followers](https://shields.io)](https://github.com)
